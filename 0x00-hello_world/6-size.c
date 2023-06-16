@@ -2,6 +2,7 @@
 int main(void)
 /**
  * main - sized of characters
+ *
  * Return: Always 0 (success)
  */
 {
