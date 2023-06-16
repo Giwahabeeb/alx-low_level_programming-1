@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void)
 /*
- * main - print the size of 
- * Return: must return 0
+ * main - sized of characters
+ * Return: Always 0 (success)
  */
 {
 printf("Size of a char: %u byte(s)\n", sizeof(char));
