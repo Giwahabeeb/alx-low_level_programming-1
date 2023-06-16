@@ -1,10 +1,10 @@
 #include <stdio.h>
-int main(void)
-/**
- * main - sized of characters
- *
- * Return: Always 0 (success)
+/*
+ * main - write
+ * Return: 0
  */
+
+int main(void)
 {
 printf("Size of a char: %u byte(s)\n", sizeof(char));
 printf("Size of an int: %d byte(s)\n", sizeof(int));
