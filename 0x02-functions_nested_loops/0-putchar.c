@@ -1,4 +1,5 @@
-int "main.h"
+#include "main.h"
+
 /**
  * main - write
  *
